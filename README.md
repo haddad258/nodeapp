@@ -1,1 +1,3 @@
-# nodeapp
+installation:
+npm install 
+npm start
